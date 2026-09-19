@@ -1,0 +1,7 @@
+{
+  "name": "Sprawdzarka Prac Uczniów",
+  "description": "Inteligentna aplikacja dla nauczycieli do sprawdzania prac ze zdjęć z weryfikacją w sieci, szczegółowym feedbackiem, wskazówkami dydaktycznymi i arkuszem klasy w czasie rzeczywistym.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
